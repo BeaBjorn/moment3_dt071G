@@ -1,0 +1,15 @@
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.csproj.AssemblyReference.cache
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.AssemblyInfoInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.AssemblyInfo.cs
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.csproj.CoreCompileInputs.cache
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/bin/Debug/net6.0/guestbook
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/bin/Debug/net6.0/guestbook.deps.json
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/bin/Debug/net6.0/guestbook.runtimeconfig.json
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/bin/Debug/net6.0/guestbook.dll
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/bin/Debug/net6.0/guestbook.pdb
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.dll
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/refint/guestbook.dll
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.pdb
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/guestbook.genruntimeconfig.cache
+/Users/beatricebjorn/Desktop/year_two/c#/guestbook/obj/Debug/net6.0/ref/guestbook.dll
